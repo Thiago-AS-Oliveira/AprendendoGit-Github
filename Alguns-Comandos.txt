@@ -1,0 +1,30 @@
+
+
+    Olá, aqui deixarei alguns comandos de Git.
+
+    'Git Init': Inícia um novo respositório local
+
+    'Git Status': Exibe o status dos arquivos no respositório
+
+    'rm -rf .git': apaga um repositório
+
+    'git add "arquivo.formato"' ou 'git add *': adiciona os arquivos para o index
+    ---------------------------------------------------------------------
+    | obs: no local de 'arquivo.formato' digite o arquivo que adiconado,|
+    | 'git add *' adciona todos os arquivos ao index                    |
+    ---------------------------------------------------------------------
+    'git commit -m "informe algo aqui": 'commita' os arquivos para o head dos repositório
+
+    'git log': lista o histórico de commits
+
+    'git checkout (numero do commit)': accesa um commit específico, caso queira acessar 
+    o ultimo commit use 'git checkout master'
+
+    'git clone (url)': clona um projeto de um repositório remoto
+
+    'git remote add (nome) (url)': adciona um repositório remoto
+
+    'git push -u (nome) master': envia para o repositório remoto os arquivos 'commitados' 
+
+    -u siginifica usuario atual,caso  o usuario seja diferente do git hub não o adcione
+    
