@@ -10,8 +10,8 @@
 
     'git add "arquivo.formato"' ou 'git add *': adiciona os arquivos para o index
     ---------------------------------------------------------------------
-    | obs: no local de 'arquivo.formato' digite o arquivo que adiconado,|
-    | 'git add *' adciona todos os arquivos ao index                    |
+    | obs: no local de 'arquivo.formato' digite o arquivo que será      |
+    | adicionado ao index, 'git add *' adciona todos os arquivos        |
     ---------------------------------------------------------------------
     'git commit -m "informe algo aqui": 'commita' os arquivos para o head dos repositório
 
@@ -27,4 +27,3 @@
     'git push -u (nome) master': envia para o repositório remoto os arquivos 'commitados' 
 
     -u siginifica usuario atual,caso  o usuario seja diferente do git hub não o adcione
-    
